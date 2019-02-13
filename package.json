@@ -11,6 +11,7 @@
     "register-service-worker": "^1.5.2",
     "vue": "^2.5.21",
     "vue-class-component": "^6.0.0",
+    "vue-html5plus": "^1.0.0",
     "vue-property-decorator": "^7.0.0",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
@@ -25,6 +26,7 @@
     "@vue/eslint-config-typescript": "^3.2.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.8.0",
+    "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
